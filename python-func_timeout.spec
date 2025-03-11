@@ -9,7 +9,7 @@ Summary:	Python module to support running any existing function with a given tim
 Summary(pl.UTF-8):	Moduł Pythona pozwalający uruchamiać istniejące funkcje z podanym limitem czasu
 Name:		python-func_timeout
 Version:	4.3.5
-Release:	5
+Release:	6
 License:	LGPL v3
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/func-timeout/
